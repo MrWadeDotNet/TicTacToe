@@ -1,0 +1,44 @@
+
+
+
+
+
+.container {
+    width: 500px;
+    position: center;
+}
+
+
+
+.table_class { 
+   width: 100%;
+
+}
+
+td { 
+    border: 1px solid black;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+
+#row1col1 { 
+}
+
+.selected {
+    color: red;
+}
+
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.winner {
+    text-align: center;
+    color: red;
+}
